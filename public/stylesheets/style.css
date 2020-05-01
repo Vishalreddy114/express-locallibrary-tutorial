@@ -5,9 +5,11 @@ body {
 
 a {
   color:greenyellow;
+  background-color:lightgreen
 } 
 
 P
 {
   color: rgb(12, 102, 34);
+  background-color: lightskyblue;
 }
